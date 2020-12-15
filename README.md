@@ -1,6 +1,6 @@
 # gecs README
 
-This is the README for your extension "gecs". After writing up a brief description, we recommend including the following sections.
+This extension is a work-in progress and will be the main technological component of my PhD Dissertation in Human-Centered Computing. My plan is to use NLP techniques and modeling to identify patterns of dialogue and provide some type of intervention to assist students with the collaboration. The particular patterns of dialogue and intervention will be informed by my current reseach on collaboration among introductory computer science students. I am particularly interested in supporting women considering the large gender gap in CS and the gender differences my previous work has uncovered. Specifically, women were significantly more stressed than men, and reported lower perceived competence and perceived choice, after programming remotely with a partner.
 
 ## Features
 
