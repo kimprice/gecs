@@ -7,8 +7,7 @@
 			"type": "npm",
 			"script": "watch",
 			"problemMatcher": [
-                "$ts-webpack-watch",
-                "$tslint-webpack-watch"
+				"$tsc-watch",
 			],
 			"isBackground": true,
 			"presentation": {
@@ -28,6 +27,14 @@
 				"reveal": "never"
 			},
 			"group": "build"
+		},
+		{
+			"type": "npm",
+			"script": "compile",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "npm: compile",
+			"detail": "webpack --config ./build/node-extension.webpack.config.js"
 		}
 	]
 }
